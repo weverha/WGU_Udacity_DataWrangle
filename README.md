@@ -8,7 +8,7 @@ Data wrangling techniques were used to transform and map the raw data into a dat
 
 <h2>Westport Massechussetts</h2>
 
-![westportSS.jpg](attachment:westportSS.jpg)
+![WPSS2.jpg](https://github.com/weverha/WGU_Udacity_DataWrangle/blob/main/WPSS2.jpg)
 
 https://www.openstreetmap.org/export#map=11/41.5665/-71.0699
 
