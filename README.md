@@ -6,7 +6,7 @@ I chose the harbor area of Westport Massechussetts because it is one of my favor
 
 Data wrangling techniques were used to transform and map the raw data into a database for further exploration. Checks for validity, accuracy, completeness of data, consistancy, and uniformity were made. Documentation of the procedure was done followed by an assessment of how to improve future data. Python and SQL were used in this process.
 
-<h2>Westport Massechussetts</h2>
+<h2 align=center>Westport Massechussetts</h2>
 
 ![WPSS2.jpg](https://github.com/weverha/WGU_Udacity_DataWrangle/blob/main/WPSS2.jpg)
 
@@ -22,7 +22,7 @@ The OSM documentation shows that there are three main elements in the OpenStreet
 
 https://wiki.openstreetmap.org/wiki/Elements#Node
 
-<h4>List of File Descriptions</h4>
+<h4 align=center>List of File Descriptions</h4>
 <ul>
   <li>WPM.zip - The origional copy of the OSM file used</li>
   <li>sample_WPM.osm - The sample osm file</li>
