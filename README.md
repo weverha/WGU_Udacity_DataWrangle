@@ -33,4 +33,6 @@ https://wiki.openstreetmap.org/wiki/Elements#Node
   <li>my_schema.py - The Scheme used given by the class</li>
   <li>nodes.zip, nodes_tags.zip, ways.zip, ways_nodes.zip, ways_tags.csv - Copies of the CSVs used</li>
   <li>work cited.md - List of all sources used</li>
+  <li>PDF Error.md - The error I get when trying to donwload the notebook as a PDF</li>
+ <ul>
 
