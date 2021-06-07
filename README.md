@@ -21,3 +21,16 @@ The OSM documentation shows that there are three main elements in the OpenStreet
 
 
 https://wiki.openstreetmap.org/wiki/Elements#Node
+
+<h4>List of File Descriptions</h4>
+<ul>
+  <li>WPM.zip - The origional copy of the OSM file used</li>
+  <li>sample_WPM.osm - The sample osm file</li>
+  <li>WPMDB - Copy of the database used</li>
+  <li>WPSS2.jpg - Screen shot of the map area used</li>
+  <li>notebook.ipynb - The whole notebook (cannot download as PDF after lots of troubleshooting)</li>
+  <li>notebook.py - Contains all of the python code used</li>
+  <li>my_schema.py - The Scheme used given by the class</li>
+  <li>nodes.zip, nodes_tags.zip, ways.zip, ways_nodes.zip, ways_tags.csv - Copies of the CSVs used</li>
+  <li>work cited.md - List of all sources used</li>
+
